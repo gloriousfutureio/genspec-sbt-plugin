@@ -1,0 +1,1 @@
+# genspec-sbt-plugin
